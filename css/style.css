@@ -1,6 +1,5 @@
 *{
     background-color: white;
-    
 }
 
 .first-block{
@@ -19,7 +18,7 @@
     background-color:rgb(4, 133, 250) ;
     width: 50%;
     margin: 20px 60px 10px 500px;
-    height: 450px;
+    height: 550px;
 }
 .fourth-block{
     background-color:rgb(136, 1, 254);
@@ -37,4 +36,25 @@
     background-color: rgb(171, 207, 231);
     width: 100%;
     height: 70px;
+}
+.menu1{
+    float: left;
+    background-color: rgb(171, 207, 231);
+    width: 17%;
+    height: 450px;
+    margin: 15px 2px 2px 0px;
+}
+.menu2{
+    float: right;
+    background-color: rgb(171, 207, 231);
+    width: 17%;
+    height: 450px;
+    margin: 15px 0px 2px 5px;
+}
+.main{
+    float: right;
+    background-color: rgb(171, 207, 231);
+    width: 64%;
+    height: 450px;
+    margin: 15px 5px 2px 2px;
 }
